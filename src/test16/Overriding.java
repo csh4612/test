@@ -1,8 +1,9 @@
 package test16;
 
 class Father{
-	void work() {
+	void work(String str, int i) {
 		System.out.println("아빠가 일합니다.");
+		
 	}
 }
 class Son extends Father{
@@ -15,10 +16,10 @@ public class Overriding {
 	
 	public static void main (String[] args) {
 		Father f = new Father();
-		f.work();
+		f.work("",1);
 		
-		Father s = new Son();
-		s.work();
+	    Son s = new Son();
+		s.work("",2);
 	}
 
 }
