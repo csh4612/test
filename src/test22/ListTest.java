@@ -19,7 +19,7 @@ public class ListTest {
 //		System.out.println(strList.size());
 		
 		
-//		inti = 1;   // 인트를 스트링으로
+//		int i = 1;   // 인트를 스트링으로
 //		String str = String.copyValueOf(i);
 //		System.out.println(str);
 	

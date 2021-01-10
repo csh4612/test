@@ -40,7 +40,5 @@ public class FindMine2 {
 		}else {
 			System.out.println("틀렸다!");
 		}
-	
-		
 	}
 }

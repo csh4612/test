@@ -6,7 +6,7 @@ class ConT{
 		System.out.println(num);
 	}
 	void test() {
-		System.out.println("hi~");
+		System.out.println("hi~~~");
 	}
 }
 

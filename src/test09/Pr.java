@@ -1,6 +1,6 @@
 package test09;
 
-public class pr {
+public class Pr {
 	public static void main(String[] args) {
 		/*
 		 * 4층짜리 건물에

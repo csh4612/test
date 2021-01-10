@@ -20,6 +20,7 @@ public class Overriding {
 		
 	    Son s = new Son();
 		s.work("",2);
+		s.work();
 	}
 
 }
